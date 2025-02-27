@@ -1,0 +1,218 @@
+[
+  {
+    "id": "01",
+    "image": "images/products/chin-chin-01.png",
+    "name": "Chin chin",
+    "rating": {
+      "stars": 3.5,
+      "count": 77
+    },
+    "priceInNaira": 250050,
+    "keywords": ["snacks"]
+  },
+  {
+    "id": "02",
+    "image": "images/products/fried-plantain-chips-02.png",
+    "name": "Fried Plantain Chips",
+    "rating": {
+      "stars": 4.0,
+      "count": 87
+    },
+    "priceInNaira": 300040,
+    "keywords": ["snacks"]
+  },
+  {
+    "id": "03",
+    "image": "images/products/puff-puff-03.png",
+    "name": "Puff puff",
+    "rating": {
+      "stars": 4.0,
+      "count": 70
+    },
+    "priceInNaira": 200090,
+    "keywords": ["snacks"]
+  },
+  {
+    "id": "04",
+    "image": "images/products/suya-04.png",
+    "name": "Suya",
+    "rating": {
+      "stars": 5.0,
+      "count": 150
+    },
+    "priceInNaira": 550960,
+    "keywords": ["snacks"]
+  },
+  {
+    "id": "05",
+    "image": "images/products/akara-05.png",
+    "name": "Akara",
+    "rating": {
+      "stars": 5.0,
+      "count": 140
+    },
+    "priceInNaira": 230960,
+    "keywords": ["snacks"]
+  },
+  {
+    "id": "06",
+    "image": "images/products/korokoro-06.png",
+    "name": "Korokoro",
+    "rating": {
+      "stars": 3.0,
+      "count": 35
+    },
+    "priceInNaira": 130960,
+    "keywords": ["snacks"]
+  },
+  {
+    "id": "07",
+    "image": "images/products/meat-pie-07.png",
+    "name": "Meat Pie",
+    "rating": {
+      "stars": 4.0,
+      "count": 88
+    },
+    "priceInNaira": 400960,
+    "keywords": ["snacks"]
+  },
+  {
+    "id": "08",
+    "image": "images/products/cake-08.png",
+    "name": "Cake",
+    "rating": {
+      "stars": 4.0,
+      "count": 100
+    },
+    "priceInNaira": 390999,
+    "keywords": ["snacks"]
+  },
+  {
+    "id": "09",
+    "image": "images/products/fish-roll-09.png",
+    "name": "Fish Roll",
+    "rating": {
+      "stars": 3.5,
+      "count": 60
+    },
+    "priceInNaira": 290988,
+    "keywords": ["snacks"]
+  },
+  {
+    "id": "10",
+    "image": "images/products/doughnut-10.png",
+    "name": "Doughnut",
+    "rating": {
+      "stars": 3.5,
+      "count": 70
+    },
+    "priceInNaira": 250987,
+    "keywords": ["snacks"]
+  },
+  {
+    "id": "11",
+    "image": "images/products/coconut-chips-11.png",
+    "name": "Coconut chips",
+    "rating": {
+      "stars": 3.5,
+      "count": 70
+    },
+    "priceInNaira": 350980,
+    "keywords": ["snacks"]
+  },
+  {
+    "id": "12",
+    "image": "images/products/moin-moin-12.png",
+    "name": "Moin-Moin",
+    "rating": {
+      "stars": 4.5,
+      "count": 130
+    },
+    "priceInNaira": 300780,
+    "keywords": ["snacks"]
+  },
+  {
+    "id": "13",
+    "image": "images/products/cokakola-13.png",
+    "name": "Coka Cola",
+    "rating": {
+      "stars": 4.5,
+      "count": 110
+    },
+    "priceInNaira": 50090,
+    "keywords": ["drinks"],
+    "type": "drinks"
+  },
+  {
+    "id": "14",
+    "image": "images/products/sprite-14.png",
+    "name": "Sprite",
+    "rating": {
+      "stars": 4.0,
+      "count": 100
+    },
+    "priceInNaira": 49990,
+    "keywords": ["drinks"],
+    "type": "drinks"
+  },
+  {
+    "id": "15",
+    "image": "images/products/fanta-15.png",
+    "name": "Fanta",
+    "rating": {
+      "stars": 4.5,
+      "count": 100
+    },
+    "priceInNaira": 51090,
+    "keywords": ["drinks"],
+    "type": "drinks"
+  },
+  {
+    "id": "16",
+    "image": "images/products/predator-16.png",
+    "name": "Predator Energy Drink",
+    "rating": {
+      "stars": 5.0,
+      "count": 95
+    },
+    "priceInNaira": 81000,
+    "keywords": ["drinks"],
+    "type": "drinks"
+  },
+  {
+    "id": "17",
+    "image": "images/products/fearless-17.png",
+    "name": "Fearless Energy Drink",
+    "rating": {
+      "stars": 5.0,
+      "count": 90
+    },
+    "priceInNaira": 80050,
+    "keywords": ["drinks"],
+    "type": "drinks"
+  },
+  {
+    "id": "18",
+    "image": "images/products/teem-18.png",
+    "name": "Teem Soda",
+    "rating": {
+      "stars": 3.5,
+      "count": 50
+    },
+    "priceInNaira": 40059,
+    "keywords": ["drinks"],
+    "type": "drinks"
+  },
+  {
+    "id": "19",
+    "image": "images/products/7-up-19.png",
+    "name": "7-Up",
+    "rating": {
+      "stars": 3.5,
+      "count": 40
+    },
+    "priceInNaira": 40039,
+    "keywords": ["drinks"],
+    "type": "drinks"
+  }
+]
