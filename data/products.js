@@ -76,6 +76,6 @@ export function loadProducts(fun) {
     fun();
   });
 
-  xhr.open("GET", "/backend/products.json");
+  xhr.open("GET", "./backend/products.json");
   xhr.send();
 }
